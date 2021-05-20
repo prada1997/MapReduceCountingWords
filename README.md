@@ -34,13 +34,13 @@ AWS EMR
 
 Steps to run the program:
 
-1.Create “BigData_Assignment-1.0-SNAPSHOT" jar file by using maven clean and then maven verify in build command.
+1.Create “BigData" jar file by using maven clean and then maven verify in build command.
 
 2.Upload the jar in Hue account using website.
 
 3.Create a folder in the files named “input”and upload all the input file that is “Melbourne-1” “RMIT-1” and “3littlepigs”
 
-4.Download the jar file in to the Hadoop server by using “hadoop fs -copyToLocal /user/pradhuman/BigData_Assignment-1.0-SNAPSHOT.jar ~/" command.
+4.Download the jar file in to the Hadoop server by using “hadoop fs -copyToLocal /user/BigData.jar ~/" command.
 
 5.To run the specific task, execute the specific command mentioned below:
 
