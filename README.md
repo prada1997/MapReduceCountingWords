@@ -45,14 +45,14 @@ Steps to run the program:
 5.To run the specific task, execute the specific command mentioned below:
 
 Task 1:
-hadoop jar BigData_Assignment-1.0-SNAPSHOT.jar edu.rmit.cosc2367.s3764267.Task1 /user/pradhuman/input /user/pradhuman/output1
+hadoop jar BigData.jar Task1 /user/input /user/output1
 
 Task 2: 
-hadoop jar BigData_Assignment-1.0-SNAPSHOT.jar edu.rmit.cosc2367.s3764267.Task2 /user/pradhuman/input /user/pradhuman/output2
+hadoop jar BigData.jar Task2 /user/input /user/output2
 
 Task 3:
-hadoop jar BigData_Assignment-1.0-SNAPSHOT.jar edu.rmit.cosc2367.s3764267.Task3 /user/pradhuman/input /user/pradhuman/output3
+hadoop jar BigData.jar Task3 /user/input /user/output3
 
 Task 4:
-hadoop jar BigData_Assignment-1.0-SNAPSHOT.jar edu.rmit.cosc2367.s3764267.Task4 /user/pradhuman/input /user/pradhuman/output4
+hadoop jar BigDataT.jar Task4 /user/input /user/output4
 
